@@ -1,6 +1,6 @@
-# cell-su7-free
+# sci-fig-editor
 
-**Free, local-first image-to-editable-vector reconstruction**. Exports editable PowerPoint / SVG, with optional local OCR and opt-in third-party AI. This is an independent MIT-licensed project inspired by [`yrui-cmd/cell_su7`](https://github.com/yrui-cmd/cell_su7), and is not affiliated with the original author or paid image-recognition provider.
+**Independent free alternative to cell_su7. Convert scientific figures to editable PPT/Illustrator without paid credits. Free, local-first image-to-editable-vector reconstruction**. Exports editable PowerPoint / SVG, with optional local OCR and opt-in third-party AI. This is an independent MIT-licensed project inspired by [`yrui-cmd/cell_su7`](https://github.com/yrui-cmd/cell_su7), and is not affiliated with the original author or paid image-recognition provider.
 
 **Current release:** 4.2.1. Local precision tracing, perceptual color reconstruction, basic geometry/object detection, visual editing and optional OCR. This version does **not** promise pixel-perfect or semantically complete restoration; automatically recognized text requires proofreading.
 
